@@ -81,6 +81,7 @@ textarea:focus{
     height: 120px;
     color: #000;
     text-align: left;
+    background-color: #fff;
 }
 footer{
     border-top: 1px solid var(--primary-color);
