@@ -1,6 +1,6 @@
 # [Pirate language translator](https://pirate-translator-by-pritam.netlify.app/)
 
-![Screenshot 2021-07-15 210202](https://user-images.githubusercontent.com/84632214/125815291-e5f772fc-7205-4e7f-b22b-b87fe21a81a8.png)
+![Screenshot 2021-07-22 001349](https://user-images.githubusercontent.com/84632214/126542678-4a33b01c-e6ee-4c57-b668-70b35e334f0d.png)
 
  An application that can translate your english language into pirate language using an [API](https://api.funtranslations.com/translate/pirate.json)
  
